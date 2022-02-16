@@ -1,4 +1,4 @@
-0. Create and setup your Git and GitHub account
+**0. Create and setup your Git and GitHub account**
 
 You will need Git for this project, you might have to install it on your computer if it’s not done yet.
 
@@ -29,7 +29,7 @@ Repo:
 GitHub repository: alx-pre_course
 File: README.md
  
-1. Repo-session
+**1. Repo-session**
 
 Create a new directory called 0x01-git in your alx-pre_course repo.
 
